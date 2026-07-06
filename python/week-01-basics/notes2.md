@@ -1,4 +1,4 @@
-# Week 02 - Python: Functions and Getting Help
+# Week 01 - 2.Python: Functions and Getting Help
 
 ## 1. `help()` Function
 

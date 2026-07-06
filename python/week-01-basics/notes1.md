@@ -1,4 +1,4 @@
-# Week 01 - Python Basics: Hello, Python
+# Week 01 - 1.Python Basics: Hello, Python
 
 
 ## 1. Checking Types with `type()`
